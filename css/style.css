@@ -446,6 +446,9 @@ html[lang="zh"] .contact-details dt { text-transform: none; letter-spacing: 0.06
   border-top: 1px solid var(--line);
 }
 
+.footer-credit a { color: var(--ink-soft); border-bottom: 1px solid var(--line); transition: color .2s, border-color .2s; }
+.footer-credit a:hover { color: var(--accent); border-color: var(--accent); }
+
 /* ---------- Reveal on scroll ---------- */
 
 .reveal { opacity: 0; transform: translateY(14px); transition: opacity .7s ease, transform .7s ease; }

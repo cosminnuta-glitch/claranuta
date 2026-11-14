@@ -117,7 +117,8 @@ window.I18N = {
     "contact.work": "Work",
     "contact.phone": "Phone",
 
-    "footer.place": "Singapore"
+    "footer.place": "Singapore",
+    "footer.credit": "Website built by"
   },
 
   /* ------------------------------------------------------------ JA */
@@ -235,7 +236,8 @@ window.I18N = {
     "contact.work": "勤務先",
     "contact.phone": "電話",
 
-    "footer.place": "シンガポール"
+    "footer.place": "シンガポール",
+    "footer.credit": "ウェブサイト制作"
   },
 
   /* ------------------------------------------------------------ KO */
@@ -353,7 +355,8 @@ window.I18N = {
     "contact.work": "회사",
     "contact.phone": "전화",
 
-    "footer.place": "싱가포르"
+    "footer.place": "싱가포르",
+    "footer.credit": "웹사이트 제작"
   },
 
   /* ------------------------------------------------------------ ZH (Simplified) */
@@ -471,6 +474,7 @@ window.I18N = {
     "contact.work": "工作",
     "contact.phone": "电话",
 
-    "footer.place": "新加坡"
+    "footer.place": "新加坡",
+    "footer.credit": "网站制作"
   }
 };
