@@ -372,6 +372,22 @@ html[lang="zh"] .sub-heading { text-transform: none; letter-spacing: 0.08em; fon
   margin-bottom: 2.5rem;
 }
 .contact-links { display: flex; gap: 2.5rem; flex-wrap: wrap; }
+.contact-details { margin: 3rem 0 0; border-top: 1px solid var(--line); max-width: 30rem; }
+.contact-details > div {
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  gap: 1rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.9375rem;
+}
+.contact-details dt { color: var(--muted); font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; padding-top: 0.2rem; }
+html[lang="ja"] .contact-details dt,
+html[lang="ko"] .contact-details dt,
+html[lang="zh"] .contact-details dt { text-transform: none; letter-spacing: 0.06em; font-size: 0.8125rem; }
+.contact-details dd { margin: 0; }
+.contact-details a { border-bottom: 1px solid transparent; transition: border-color .2s, color .2s; }
+.contact-details a:hover { color: var(--accent); border-color: var(--accent); }
 
 /* ---------- Footer ---------- */
 

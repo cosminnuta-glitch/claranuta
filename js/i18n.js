@@ -98,6 +98,9 @@ window.I18N = {
     "contact.heading": "Let's talk",
     "contact.text": "Open to conversations about brand building, market entry in Asia and growth leadership. The easiest way to reach me is LinkedIn.",
     "contact.email": "Email",
+    "contact.personal": "Personal",
+    "contact.work": "Work",
+    "contact.phone": "Phone",
 
     "footer.place": "Singapore"
   },
@@ -198,6 +201,9 @@ window.I18N = {
     "contact.heading": "お問い合わせ",
     "contact.text": "ブランド構築、アジアでの市場参入、成長戦略についてのご相談を歓迎します。LinkedInからのご連絡が最も確実です。",
     "contact.email": "メール",
+    "contact.personal": "個人",
+    "contact.work": "勤務先",
+    "contact.phone": "電話",
 
     "footer.place": "シンガポール"
   },
@@ -298,6 +304,9 @@ window.I18N = {
     "contact.heading": "함께 이야기해요",
     "contact.text": "브랜드 구축, 아시아 시장 진입, 성장 리더십에 관한 대화를 환영합니다. LinkedIn으로 연락 주시는 것이 가장 빠릅니다.",
     "contact.email": "이메일",
+    "contact.personal": "개인",
+    "contact.work": "회사",
+    "contact.phone": "전화",
 
     "footer.place": "싱가포르"
   },
@@ -398,6 +407,9 @@ window.I18N = {
     "contact.heading": "欢迎联系",
     "contact.text": "欢迎就品牌建设、亚洲市场进入与增长领导力进行交流。通过 LinkedIn 联系我最为便捷。",
     "contact.email": "邮件",
+    "contact.personal": "个人",
+    "contact.work": "工作",
+    "contact.phone": "电话",
 
     "footer.place": "新加坡"
   }

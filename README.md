@@ -30,7 +30,7 @@ Any static host works (Netlify, Cloudflare Pages, GitHub Pages, Vercel). Upload 
 
 ## To confirm with Clara before launch
 
-- Email address shown in Contact (currently the one from her LinkedIn PDF). Remove if she prefers LinkedIn only.
+- Contact shows LinkedIn, personal Gmail, BISSELL work email and Singapore mobile, as Clara asked on 14 Nov 2026.
 - Case-study wording and the growth figures (+17% Lumea, +15% OneBlade NA, +31% male grooming India) come from her LinkedIn summary.
 - Which portrait she prefers in the hero (currently `Clara_012_v2`) and in About (`Clara_036_v2`).
 - Whether she wants Korean and Chinese kept, or Japanese only.
