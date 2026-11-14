@@ -34,3 +34,13 @@ Any static host works (Netlify, Cloudflare Pages, GitHub Pages, Vercel). Upload 
 - Case-study wording and the growth figures (+17% Lumea, +15% OneBlade NA, +31% male grooming India) come from her LinkedIn summary.
 - Which portrait she prefers in the hero (currently `Clara_012_v2`) and in About (`Clara_036_v2`).
 - Whether she wants Korean and Chinese kept, or Japanese only.
+
+## Image sources (launch gallery and logos)
+
+- `assets/launches/spotclean-mini-japan.jpg` — BISSELL / VYPER JAPAN press release on PR TIMES (Japan launch of SpotClean Mini Pet Cordless 4065P, 21 Sep 2026).
+- `assets/launches/lumea-prestige.jpg`, `lumea-red-dot.jpg` — Philips product imagery for Lumea Prestige BRI950/00 (philips.co.uk).
+- `assets/launches/pencil-trimmer.jpg` — Philips product imagery for Precision trimmer HP6390/10 (philips.co.uk).
+- `assets/logos/philips.svg`, `bissell.svg` — brand marks via Wikimedia.
+
+These belong to Philips and BISSELL. Clara should confirm she is comfortable using them on a personal portfolio, or replace them with her own launch photos.
+The Red Dot Award line is as Clara stated it; year and exact Lumea model are not verified yet. Model numbers 4065J and 4302J were not found online; only 4065P is documented for Japan.
